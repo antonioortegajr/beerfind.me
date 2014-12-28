@@ -11,4 +11,4 @@ This repo is this readme and the home page for beerfind.me
 
 I may add the API calls, users login pages, search page, etc.. later.
 
-I am using this reop to track issues I experiance and to document my progress.
+I am using this reop to track issues I experience and to document my progress.
