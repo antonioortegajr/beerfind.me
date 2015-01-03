@@ -13,4 +13,4 @@ I may add the API calls, users login pages, search page, etc.. later.
 
 I am using this repo to track issues I experience and to document my progress.
 
-See the wiki located on this githup repo for more.
+See the wiki located on this github repo for more.
