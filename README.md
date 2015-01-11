@@ -8,7 +8,8 @@ Users can set beer names or names to be searched in the data recieved from untap
 
 Users are notified when a beer is in the data set. This notification id's an @username tweet from the beerfind.me Twitter account.
 
-
+Q. Why not just use untapped??
+A. Please do use untapped! However some users may not want to check in or use the untapped app at all. They still want beers. Twitter is much more widley used and this would allow non untapped uses to get updates from the untapped data. This also may get reluctant users to join untapped and hopefully making the crowd sourced data feed better.
 
 
 This repo is this readme and the home page for beerfind.me
