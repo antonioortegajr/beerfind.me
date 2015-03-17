@@ -12,6 +12,8 @@ Q. Why not just use untapped??
 A. Please do use untapped! However some users may not want to check in or use the untapped app at all. They still want beers. Twitter is much more widley used and this would allow non untapped uses to get updates from the untapped data. This also may get reluctant users to join untapped and hopefully making the crowd sourced data feed better.
 
 
+What if I don't have Twitter. Get Twitter. It's free...
+
 This repo is this readme and the home page for beerfind.me
 
 
